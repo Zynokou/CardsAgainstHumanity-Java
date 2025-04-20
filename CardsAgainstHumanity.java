@@ -27,5 +27,8 @@ public class CardsAgainstHumanity {
 
         //Second data processing
         System.out.println("\nSecond answer :\nWhile looking at " + choice[nb] + ", my mom said: Like mother, like daughter");
+
+        //Closing the scanner
+        sc.close();
     }
 }
